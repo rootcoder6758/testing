@@ -1,0 +1,5 @@
+1. I am able to do Laravel crud (Create Read Update Delete)
+2. Laravel with ajax ( Can solve Bugs )
+3. I can solve the Bugs and issue in SQL ,that can combined with Laravel , Codeignter and core php too
+4. SQL query Bugs 
+5. I can also able to fix bug , Cake php (Just Bugs)
